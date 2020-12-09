@@ -1,2 +1,2 @@
 # facemash...
- wallpaper reting site
+ wallpaper rating site
